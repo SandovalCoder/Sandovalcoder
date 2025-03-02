@@ -30,3 +30,5 @@ Soy estudiante de Ingeniería de Sistemas de Información en la UPC (8vo ciclo),
 
 ---
 ⭐️ From [SandovalCoder](https://github.com/sandovalcoder)
+
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)](https://github.com/yourusername/yourrepo)
